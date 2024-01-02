@@ -6,7 +6,7 @@
 
 ## Installation
 
-N/A
+
 
 ## Usage
 
@@ -18,4 +18,4 @@ N/A
 
 ## License
 
-N/A
+
